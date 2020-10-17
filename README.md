@@ -29,14 +29,14 @@
       <img src="./public/images/demos/demohappy.gif" width="90%" alt="Happy Demo"/>
    </p>
 
-   > * See all in [`demo`](https://github.com/felipecastrosales/Happy/tree/master/public/images/demos) folder. 🧐📂
+   > * See all in [`demo`](https://github.com/Igor-Felipy/Happy/tree/master/README_images) folder. 🧐📂
 
 ---
 
 <h2 align="center">Layout 🎨</h2>
 
    <p align="center">
-      The Layout was developed by <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>, and you can access it on Figma:
+      The Layout was developed by <a href="https://twitter.com/FelipyIgor">Tiago Luchtenberg</a>, and you can access it on Figma:
       
    - <a href="https://www.figma.com/file/XYb2tha1gU5M8vTwTUmjNx/Happy-Web-(Copy)?node-id=0%3A1">Desktop</a> 🖥️
    - <a href="https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile?node-id=0%3A1">Mobile</a> 📱
@@ -136,13 +136,13 @@
 
    ---
 
-   >This project was developed with ❤️ by **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)**, with the instructor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, during the **[Next Level Week](https://rocketseat.com.br/)** of **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜. <br> 
+   >This project was developed with ❤️ by **[@IgorFelipy](https://www.linkedin.com/in/igor-felipy)**, with the instructor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, during the **[Next Level Week](https://rocketseat.com.br/)** of **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜. <br> 
    If it helped you, give it ⭐, it will help me too 😉 
 
 ---
 
    <div align="center">
 
-   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales/)](https://www.linkedin.com/in/felipecastrosales/)
+   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales/)](https://www.linkedin.com/in/igor-felipy)
 
    </div>
