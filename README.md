@@ -25,8 +25,11 @@
 <h2 align="center">Preview 💻📱</h2>
 
    <p align="center">
-      <img src="https://user-images.githubusercontent.com/59374587/95769033-9a163200-0c8d-11eb-8f43-2930a859f858.png" width="90%" alt="Happy Demo"/>
-      <img src="./public/images/demos/demohappy.gif" width="90%" alt="Happy Demo"/>
+      <img src="https://github.com/Igor-Felipy/Happy/blob/master/README_images/index.png" width="90%" alt="index"/>
+      <img src="https://github.com/Igor-Felipy/Happy/blob/master/README_images/create_new.png" width="90%" alt="create new"/>
+      <img src="https://github.com/Igor-Felipy/Happy/blob/master/README_images/map.png" width="90%" alt="map"/>
+      <img src="https://github.com/Igor-Felipy/Happy/blob/master/README_images/page-example1.png" width="90%" alt="page 1"/>
+      <img src="https://github.com/Igor-Felipy/Happy/blob/master/README_images/page.png" width="90%" alt="page 2"/>
    </p>
 
    > * See all in [`demo`](https://github.com/Igor-Felipy/Happy/tree/master/README_images) folder. 🧐📂
@@ -143,6 +146,6 @@
 
    <div align="center">
 
-   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales/)](https://www.linkedin.com/in/igor-felipy)
+   [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-felipy)](https://www.linkedin.com/in/igor-felipy)
 
    </div>
