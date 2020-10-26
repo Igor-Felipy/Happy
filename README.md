@@ -97,7 +97,7 @@
 
    ```
    - Clone this repository:
-   $ git clone https://github.com/felipecastrosales/Happy Happy
+   $ git clone https://github.com/Igor-Felipy/Happy Happy
 
    - Enter in directory:
    $ cd Happy
@@ -134,7 +134,7 @@
 <h2 align="center">License 📝</h2>
 
 <p align="center">
-   This repository is under MIT license. You can see the <a href="https://github.com/felipecastrosales/Happy/blob/master/LICENSE">LICENSE</a> file for more details. 😉
+   This repository is under MIT license. You can see the <a href="https://github.com/Igor-Felipy/Happy/blob/master/LICENSE">LICENSE</a> file for more details. 😉
 </p>
 
    ---
